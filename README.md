@@ -1,5 +1,13 @@
-# project-portfolio
-My participated projects
+# 🧠 Project Portfolio
 
-### [FamiCare](https://github.com/ethan91024/FamiCare)
-Collaborated on an Android health-tracking app using Firebase and Health Connect API.
+A curated list of my featured projects.
+
+## 🛡️ FamiCare
+- Android health tracking app
+- [Repo](https://github.com/ethan91024/FamiCare)
+
+
+## 🍳 Sharecipe
+- Full-stack recipe sharing platform
+- [Frontend](https://github.com/Alvin9840/Sharecipe-Frontend)
+- [Backend](https://github.com/Alvin9840/Sharecipe-Backend)
