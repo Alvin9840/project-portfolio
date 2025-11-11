@@ -10,6 +10,9 @@ A curated list of my featured projects.
 - Android health tracking app
 - [Repo](https://github.com/ethan91024/FamiCare)
 
+## 🏀 NBA Marketing Agentic AI Dashboard
+- Intelligent dashboard for NBA marketing teams, featuring automated fan sentiment analysis, social content generation, and engagement insights.
+- [Repo](https://github.com/Alvin9840/IBM-AI-Program)
 
 ## 🍳 Sharecipe
 - Full-stack recipe sharing platform
