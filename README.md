@@ -19,6 +19,10 @@ A curated list of my featured projects.
 - [Frontend](https://github.com/Alvin9840/Sharecipe-Frontend)
 - [Backend](https://github.com/Alvin9840/Sharecipe-Backend)
 
+## 🧮 Bit coin trend analysis
+- Analyze bit coin data set via different methods and models in Machine Learning.
+- [Repo](https://github.com/Alvin9840/Bit-coin-trend-Machine-Learning-Analysis.git)
+
 ## 🧮 Java Practice Projects
 - These repositories contain structured Java exercises from two semesters of coursework, covering object-oriented programming, file I/O, and GUI development.
 - [Junior_semester1](https://github.com/Alvin9840/Junior_semester1): Core Java syntax, control flow, arrays, and basic OOP principles.
