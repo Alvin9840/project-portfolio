@@ -30,4 +30,9 @@ A curated list of my featured projects.
 
 ## 🧮 Machine Learning Practice Projects
 - This repository cotains practice code covering machine learning models and development.
+- [Repo]([https://github.com/Alvin9840/Machine-Learning-HWKS.git](https://github.com/Alvin9840/Natural-Language-Processing_HWKs.git))
+
+## 🧮 Natural Language Processing Practice Projects
+- This repository cotains practice code covering NLP models and development.
 - [Repo](https://github.com/Alvin9840/Machine-Learning-HWKS.git)
+  
