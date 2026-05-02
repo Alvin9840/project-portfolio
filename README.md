@@ -34,5 +34,6 @@ A curated list of my featured projects.
 
 ## 🧮 Natural Language Processing Practice Projects
 - This repository cotains practice code covering NLP models and development.
-- [Repo](https://github.com/Alvin9840/Natural-Language-Processing-HWKs.git)
+- [Final Project](https://github.com/Alvin9840/Natral-Language-Processing-Final.git)
+- [Homeworks](https://github.com/Alvin9840/Natural-Language-Processing-HWKs.git)
   
