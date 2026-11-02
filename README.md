@@ -19,6 +19,10 @@ A curated list of my featured projects.
 - [Frontend](https://github.com/Alvin9840/Sharecipe-Frontend)
 - [Backend](https://github.com/Alvin9840/Sharecipe-Backend)
 
+## Agentic NMap assisant
+- Agentic-AI implemented NMap scanning tool
+- [Repo](https://github.com/Alvin9840/Agentic-Nmap-Assistant) 
+
 ## 🧮 Bit coin trend analysis
 - Analyze bit coin data set via different methods and models in Machine Learning.
 - [Repo](https://github.com/Alvin9840/Bit-coin-trend-Machine-Learning-Analysis.git)
